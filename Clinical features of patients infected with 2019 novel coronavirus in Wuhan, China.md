@@ -1,3 +1,136 @@
+#Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+
+2019中国武汉新型感染冠状病毒感染者的临床特征
+
+<font color=#b6144e >Chaolin Huang\*, Yeming Wang\*, Xingwang Li\*, Lili Ren\*, Jianping Zhao\*, Yi Hu\*, Li Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang†, Bin Cao†</font>
+
+## <font color=#b6144e >Summary</font>
+**<font color=#b6144e>Background</font>** **A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.** 
+
+**<font color=#b6144e >Methods</font>** **All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not.** 
+
+**<font color=#b6144e >Findings</font>** **By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49·0 years (IQR 41·0–58·0). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8·0 days [IQR 5·0–13·0]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNFα.** 
+
+**<font color=#b6144e >Interpretation</font>** **The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies.** 
+
+**<font color=#b6144e >Funding</font>** **Ministry of Science and Technology, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, and Beijing Municipal Science and Technology Commission.** 
+
+**<font color=#b6144e >Copyright</font>** **© 2020 Elsevier Ltd. All rights reserved.** 
+
+##<font color=#b6144e >Introduction</font> 
+
+Coronaviruses are enveloped non-segmented positive- sense RNA viruses belonging to the family Coronaviridae and the order Nidovirales and broadly distributed in humans and other mammals.<sup>1</sup> Although most human coronavirus infections are mild, the epidemics of the two betacoronaviruses, severe acute respiratory syndrome coronavirus (SARS-CoV) <sup>2,4</sup> and Middle East respiratory syndrome coronavirus (MERS-CoV),<sup>5,6</sup> have caused more than 10000 cumulative cases in the past two decades, with mortality rates of 10% for SARS-CoV and 37% for MERS-CoV.7,8 The coronaviruses already identified might only be the tip of the iceberg, with potentially more novel and severe zoonotic events to be revealed. 
+
+In December, 2019, a series of pneumonia cases of unknown cause emerged in Wuhan, Hubei, China, with clinical presentations greatly resembling viral pneumonia.9 Deep sequencing analysis from lower respiratory tract samples indicated a novel coronavirus, which was named 2019 novel coronavirus (2019-nCoV). Thus far, more than 800 confirmed cases, including in health-care workers, have been identified in Wuhan, and several exported cases have been confirmed in other provinces in China, and in Thailand, Japan, South Korea, and the USA.10–13 
+
+**Research in context** 
+
+**Evidence before this study** 
+
+Human coronaviruses, including hCoV-229E, OC43, NL63,
+ and HKU1, cause mild respiratory diseases. Fatal coronavirus infections that have emerged in the past two decades are severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus. We searched PubMed and the China National Knowledge Infrastructure database for articles published up to Jan 11, 2020, using the keywords “novel coronovirus”, “2019 novel coronavirus”,
+ or “2019-nCoV”. No published work about the human infection caused by the 2019 novel coronavirus (2019-nCoV) could be identified. 
+
+**Added value of this study** 
+
+We report the epidemiological, clinical, laboratory, and radiological characteristics, treatment, and clinical outcomes of 41 laboratory-confirmed cases infected with 2019-nCoV. 
+
+27 (66%) of 41 patients had a history of direct exposure to the Huanan seafood market. The median age of patients was
+ 49·0 years (IQR 41·0–58·0), and 13 (32%) patients had underlying disease. All patients had pneumonia. A third of patients were admitted to intensive care units, and six died. High concentrations of cytokines were recorded in plasma of critically ill patients infected with 2019-nCoV. 
+
+**Implications of all the available evidence** 
+
+2019-nCoV caused clusters of fatal pneumonia with clinical presentation greatly resembling SARS-CoV. Patients infected with 2019-nCoV might develop acute respiratory distress syndrome, have a high likelihood of admission to intensive care, and might die. The cytokine storm could be associated with disease severity. More efforts should be made to know the whole spectrum and pathophysiology of the new disease. 
+
+We aim to describe epidemiological, clinical, laboratory, and radiological characteristics, treatment, and outcomes of patients confirmed to have 2019-nCoV infection, and to compare the clinical features between intensive care unit (ICU) and non-ICU patients. We hope our study findings will inform the global community of the emergence of this novel coronavirus and its clinical features. 
+
+**Methods** 
+
+**Patients**
+
+Following the pneumonia cases of unknown cause reported in Wuhan and considering the shared history of exposure to Huanan seafood market across the patients, an epidemiological alert was released by the local health authority on Dec 31, 2019, and the market was shut down on Jan 1, 2020. Meanwhile, 59 suspected cases with fever and dry cough were transferred to a designated hospital starting from Dec 31, 2019. An expert team of physicians, epidemiologists, virologists, and government officials was soon formed after the alert. 
+
+Since the cause was unknown at the onset of these emerging infections, the diagnosis of pneumonia of unknown cause in Wuhan was based on clinical characteristics, chest imaging, and the ruling out of common bacterial and viral pathogens that cause pneumonia. Suspected patients were isolated using airborne precautions in the designated hospital, Jin Yin- tan Hospital (Wuhan, China), and fit-tested N95 masks and airborne precautions for aerosol-generating procedures were taken. This study was approved by the National Health Commission of China and Ethics Commission of Jin Yin-tan Hospital (KY-2020-01.01). Written informed consent was waived by the Ethics Commission of the designated hospital for emerging infectious diseases. 
+
+**Procedures**
+
+Local centres for disease control and prevention collected respiratory, blood, and faeces specimens, then shipped them to designated authoritative laboratories to detect the pathogen (NHC Key Laboratory of Systems Biology of Pathogens and Christophe Mérieux Laboratory, Beijing, China). A novel coronavirus, which was named 2019-nCoV, was isolated then from lower respiratory tract specimen and a diagnostic test for this virus was developed soon after that.14 Of 59 suspected cases, 41 patients were confirmed to be infected with 2019-nCoV. The presence of 2019-nCoV in respiratory specimens was detected by next- generation sequencing or real-time RT-PCR methods. The primers and probe target to envelope gene of CoV were used and the sequences were as follows: forward primer 5′-TCAGAATGCCAATCTCCCCAAC-3′; reverse primer 5′-AAAGGTCCACCCGATACATTGA-3′; and the probe 5′CY5-CTAGTTACACTAGCCATCCTTACTGC-3′BHQ1. Conditions for the amplifications were 50°C for 15 min, 95°C for 3 min, followed by 45 cycles of 95°C for 15 s and 60°C for 30 s. 
+
+Initial investigations included a complete blood count, coagulationprofile,andserumbiochemicaltest(including renalandliverfunction,creatinekinase,lactatedehydro- genase, and electrolytes). Respiratory specimens, including nasal and pharyngeal swabs, bronchoalveolar lavage fluid, sputum, or bronchial aspirates were tested for common viruses, including influenza, avian influenza, respiratory syncytial virus, adenovirus, parainfluenza virus, SARS-CoV andMERS-CoVusingreal-timeRT-PCRassaysapproved by the China Food and Drug Administration. Routine bacterialandfungalexaminationswerealsoperformed. 
+
+Given the emergence of the 2019-nCoV pneumonia cases during the influenza season, antibiotics (oral and intravenous) and oseltamivir (orally 75 mg twice daily) were empirically administered. Corticosteroid therapy 
+
+(methylprednisolone 40–120 mg per day) was given as a combined regimen if severe community-acquired pneumonia was diagnosed by physicians at the designated hospital. Oxygen support (eg, nasal cannula and invasive mechanical ventilation) was administered to patients according to the severity of hypoxaemia. Repeated tests for 2019-nCoV were done in patients confirmed to have 2019-nCoV infection to show viral clearance before hospital discharge or discontinuation of isolation. 
+
+**Data collection** 
+
+We reviewed clinical charts, nursing records, laboratory findings, and chest x-rays for all patients with laboratory- confirmed 2019-nCoV infection who were reported by the local health authority. The admission data of these patients was from Dec 16, 2019, to Jan 2, 2020. Epidemiological, clinical, laboratory, and radiological characteristics and treatment and outcomes data were obtained with standardised data collection forms (modified case record form for severe acute respira- tory infection clinical characterisation shared by the International Severe Acute Respiratory and Emerging Infection Consortium) from electronic medical records. Two researchers also independently reviewed the data collection forms to double check the data collected. To ascertain the epidemiological and symptom data, which were not available from electronic medical records, the researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. 
+
+**Cytokine and chemokine measurement** 
+
+To characterise the effect of coronavirus on the production of cytokines or chemokines in the acute phase of the illness, plasma cytokines and chemokines (IL1B, IL1RA, IL2, IL4, IL5, IL6, IL7, IL8 (also known as CXCL8), IL9, IL10, IL12p70, IL13, IL15, IL17A, Eotaxin (also known as CCL11), basic FGF2, GCSF (CSF3), GMCSF (CSF2), IFNγ, IP10 (CXCL10), MCP1 (CCL2), MIP1A (CCL3), MIP1B (CCL4), PDGFB, RANTES (CCL5), TNFα, and VEGFA were measured using Human Cytokine Standard 27-Plex Assays panel and the Bio-Plex 200 system (Bio-Rad, Hercules, CA, USA) for all patients according to the manufacturer’s instructions. The plasma samples from four healthy adults were used as controls for cross- comparison. The median time from being transferred to a designated hospital to the blood sample collection was 4 days (IQR 2–5). 
+
+**Detection of coronavirus in plasma** 
+
+Each 80 μL plasma sample from the patients and contacts was added into 240 μL of Trizol LS (10296028; Thermo Fisher Scientific, Carlsbad, CA, USA) in the Biosafety Level 3 laboratory. Total RNA was extracted by Direct-zol RNA Miniprep kit (R2050; Zymo research, Irvine, CA, USA) according to the manufacturer’s instructions and 
+
+50 μL elution was obtained for each sample. 5 μL RNA was used for real-time RT-PCR, which targeted the *NP* gene using AgPath-ID One-Step RT-PCR Reagent (AM1005; Thermo Fisher Scientific). The final reaction mix concentration of the primers was 500 nM and probe was 200 nM. Real-time RT-PCR was performed using the following conditions: 50°C for 15 min and 95°C for 3 min, 50 cycles of amplification at 95°C for 10 s and 60°C for 45 s. Since we did not perform tests for detecting infectious virus in blood, we avoided the term viraemia and used RNAaemia instead. RNAaemia was defined as a positive result for real-time RT-PCR in the plasma sample. 
+
+**Definitions**
+
+Acute respiratory distress syndrome (ARDS) and shock weredefinedaccordingtotheinterimguidanceofWHO 
+
+ 
+
+ 
+
+***Figure 1:\*** **Date of illness onset and age distribution of patients with laboratory-confirmed 2019-nCoV infection
+** (A) Number of hospital admissions by age group. (B) Distribution of symptom onset date for laboratory-confirmed cases. The Wuhan local health authority issued an epidemiological alert on Dec 30, 2019, and closed the Huanan seafood market 2 days later. 
+
+ 
+
+for novel coronavirus.9 Hypoxaemia was defined as arterial oxygen tension (PaO2) over inspiratory oxygen fraction (FIO2) of less than 300 mm Hg.15 Acute kidney injury was identified and classified on the basis of the highest serum creatinine level or urine output criteria according to the kidney disease improving global outcomes classification.16 Secondary infection was diagnosed if the patients had clinical symptoms or signs of nosocomial pneumonia or bacteraemia, and was combined with a positive culture of a new pathogen from a lower respiratory tract specimen (including the sputum, transtracheal aspirates, or bron- choalveolar lavage fluid, or from blood samples taken ≥48 h 
+
+after admission).17 Cardiac injury followed the definition used in our previous study in H7N9 patients.18 In brief, cardiac injury was diagnosed if serum levels of cardiac biomarkers (eg, troponin I) were above the 99th percentile upper reference limit, or new abnormalities were shown in electrocardiography and echocardiography. 
+
+**Statistical analysis** 
+
+Continuous variables were expressed as median (IQR) and compared with the Mann-Whitney U test; categorical variables were expressed as number (%) and compared by χ2 test or Fisher’s exact test between ICU care and no ICU care groups. Boxplots were drawn to describe plasma cytokine and chemokine concentrations. 
+
+A two-sided α of less than 0·05 was considered statis- tically significant. Statistical analyses were done using the SAS software, version 9.4, unless otherwise indicated. 
+
+**Role of the funding source** 
+
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding authors had full access to all the data in the study and had final responsibility for the decision to submit for publication. 
+
+**Results** 
+
+By Jan 2, 2020, 41 admitted hospital patients were identified as laboratory-confirmed 2019-nCoV infection in Wuhan. 20 [49%]) of the 2019-nCoV-infected patients were aged 25–49 years, and 14 (34%) were aged 50–64 years (figure 1A). The median age of the patients was 49·0 years (IQR 41·0–58·0; table 1). In our cohort of the first 41 patients as of Jan 2, no children or adolescents were infected. Of the 41 patients, 13 (32%) were admitted to the ICU because they required high-flow nasal cannula or higher-level oxygen support measures to correct hypoxaemia. Most of the infected patients were men (30 [73%]); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). 
+
+27 (66%) patients had direct exposure to Huanan seafood market (figure 1B). Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. None of his family members developed fever or any respiratory symptoms. No epidemiological link was found between the first patient and later cases. The first fatal case, who had continuous exposure to the market, was admitted to hospital because of a 7-day history of fever, cough, and dyspnoea. 5 days after illness onset, his wife, a 53-year-old woman who had no known history of exposure to the market, also presented with pneumonia and was hospitalised in the isolation ward. 
+
+The most common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms 
+
+were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38; table 1). More than half of patients (22 [55%] of 40) developed dyspnoea. The median duration from illness onset to dyspnoea was 8·0 days (IQR 5·0–13·0). The median time from onset of symp- toms to first hospital admission was 7·0 days (4·0–8·0), to shortness of breath was 8·0 days (5·0–13·0), to ARDS was 9·0 days (8·0–14·0), to mechanical ventilation was 10·5 days (7·0–14·0), and to ICU admission was 10·5 days (8·0–17·0; figure 2). 
+
+The blood counts of patients on admission showed leucopenia (white blood cell count less than 4×109/L; ten [25%] of 40 patients) and lymphopenia (lymphocyte count <1·0×109/L; 26 [63%] patients; table 2). Pro- thrombin time and D-dimer level on admission were higher in ICU patients (median prothrombin time 12·2 s [IQR 11·2–13·4]; median D-dimer level 2·4 mg/L [0·6–14·4]) than non-ICU patients (median prothrombin time 10·7 s [9·8–12·1], p=0·012; median D-dimer level 0·5 mg/L [0·3–0·8], p=0·0042). Levels of aspartate aminotransferase were increased in 15 (37%) of 41 patients, including eight (62%) of 13 ICU patients and seven (25%) of 28 non-ICU patients. Hypersensitive troponin I (hs-cTnI) was increased substantially in five patients, in whom the diagnosis of virus-related cardiac injury was made. 
+
+Most patients had normal serum levels of procalcitonin on admission (procalcitonin <0·1 ng/mL; 27 [69%] patients; table 2). Four ICU patients developed secondary infec- tions. Three of the four patients with secondary infection had procalcitonin greater than 0·5 ng/mL (0·69 ng/mL, 1·46 ng/mL, and 6·48 ng/mL). 
+
+On admission, abnormalities in chest CT images were detected among all patients. Of the 41 patients, 40 (98%) had bilateral involvement (table 2). The typical findings of chest CT images of ICU patients on admission were bilateral multiple lobular and subsegmental areas of consolidation (figure 3A). The representative chest CT findings of non-ICU patients showed bilateral ground- glass opacity and subsegmental areas of consolidation (figure 3B). Later chest CT images showed bilateral ground-glass opacity, whereas the consolidation had been resolved (figure 3C). 
+
+Initial plasma IL1B, IL1RA, IL7, IL8, IL9, IL10, basic FGF, GCSF, GMCSF, IFNγ, IP10, MCP1, MIP1A, MIP1B, PDGF, TNFα, and VEGF concentrations were higher in both ICU patients and non-ICU patients than in healthy adults (appendix pp 6–7). Plasma levels of IL5, IL12p70, IL15, Eotaxin, and RANTES were similar between healthy adults and patients infected with 2019-nCoV. Further comparison between ICU and non-ICU patients showed that plasma concentrations of IL2, IL7, IL10, GCSF, IP10, MCP1, MIP1A, and TNFα were higher in ICU patients than non-ICU patients. 
+
+All patients had pneumonia. Common complications included ARDS (12 [29%] of 41 patients), followed by 
+
+***Figure 2:\*** **Timeline of 2019-nCoV cases after onset of illness** 
+
+RNAaemia (six [15%] patients), acute cardiac injury (five [12%] patients), and secondary infection (four [10%] patients; table 3). Invasive mechanical ventilation was required in four (10%) patients, with two of them (5%) had refractory hypoxaemia and received extracorporeal mem- brane oxygenation as salvage therapy. All patients were administered with empirical antibiotic treatment, and 38 (93%) patients received antiviral therapy (oseltamivir). Additionally, nine (22%) patients were given systematic corticosteroids. A comparison of clinical features between patients who received and did not receive systematic corticosteroids is in the appendix (pp 1–5). 
+
+As of Jan 22, 2020, 28 (68%) of 41 patients have been discharged and six (15%) patients have died. Fitness for discharge was based on abatement of fever for at least 10 days, with improvement of chest radiographic evidence and viral clearance in respiratory samples from upper respiratory tract. 
+
+
+
 # Discussion 
 
 We report here a cohort of 41 patients with laboratory- confirmed 2019-nCoV infection. Patients had serious, sometimes fatal, pneumonia and were admitted to the designated hospital in Wuhan, China, by Jan 2, 2020. Clinical presentations greatly resemble SARS-CoV. Patients with severe illness developed ARDS and required ICU admission and oxygen therapy. The time between hospital admission and ARDS was as short as 2 days. At this stage, the mortality rate is high for 2019-nCoV, because six (15%) of 41 patients in this cohort died. 
