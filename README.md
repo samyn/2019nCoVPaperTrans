@@ -10,4 +10,4 @@
 
 [原文链接 柳叶刀 2020-1-24](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
 
-
+本页面目的只是为了让身处焦虑的朋友能多有一些一手资料可以参考，如果有侵权情况请立即和我联系（zhangxigm@gmail.com），我将立即删除本页面
