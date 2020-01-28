@@ -1,6 +1,6 @@
 # Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
 
-**2019中国武汉新型感染冠状病毒感染者的临床特征**
+**2019中国武汉新型冠状病毒感染者的临床特征**
 
 <center>***以下为业余的非医学专业局部翻译，省略了部分学术段落的翻译，仅供参考***</center>
 
@@ -101,7 +101,7 @@ Initial investigations included a complete blood count, coagulationprofile,and s
 
 Given the emergence of the 2019-nCoV pneumonia cases during the influenza season, antibiotics (oral and intravenous) and oseltamivir (orally 75 mg twice daily) were empirically administered. Corticosteroid therapy (methylprednisolone 40–120 mg per day) was given as a combined regimen if severe community-acquired pneumonia was diagnosed by physicians at the designated hospital. Oxygen support (eg, nasal cannula and invasive mechanical ventilation) was administered to patients according to the severity of hypoxaemia. Repeated tests for 2019-nCoV were done in patients confirmed to have 2019-nCoV infection to show viral clearance before hospital discharge or discontinuation of isolation. 
 
-因为新型冠状病毒是在流感季节爆发，所以对于相关病例给予了治疗规程知道的抗生素（口服和静脉注射）奥司他韦（每天口服75mg两次）治疗。在专门医院，对于严重的社区感染病例，采用激素治疗（甲基苯丙酮每天40-120mg）作为联合方案。根据病例的低氧血症严重程度给进行人工输氧（例如鼻管及侵入性通气）。对于确诊新型冠状病毒的病例，在出院或结束隔离前，还进行了重复的检测，以观察病毒的活动 。
+因为新型冠状病毒是在流感季节爆发，所以对于相关病例给予了治疗规程指导的抗生素（口服和静脉注射）奥司他韦（每天口服75mg两次）治疗。在专门医院，对于严重的社区感染病例，采用激素治疗（甲基苯丙酮每天40-120mg）作为联合方案。根据病例的低氧血症严重程度给进行人工输氧（例如鼻管及侵入性通气）。对于确诊新型冠状病毒的病例，在出院或结束隔离前，还进行了重复的检测，以观察病毒的活动 。
 
 **Data collection** 
 
@@ -172,7 +172,7 @@ The blood counts of patients on admission showed leucopenia (white blood cell co
 
 入院病人的血液计数显示白细胞（40人中的10人[25%]白细胞数<4×109/L）和淋巴细胞（26人[63%]淋巴细胞<1·0×109/L）减少。深切治疗的病例在入院时的凝血酶时间（平均12.2秒[11.2-13.4]）和D-二聚体水平（平均2.4mg/L[0.6-14.4]高于普通病例（平均凝血时间10.7秒[9.8-12.1],p=0.012;，D-二聚体水平0.5mg
 
-/L[0.3-08],p=0.0042)。 天冬氨酸转氨酶水平在15例[37%]病例升高，包含8例[62%]深切治疗病例he 7例[25%]普通病例。高敏肌钙蛋白I在5个被诊断为病毒引起心脏损伤病例中升高。
+/L[0.3-08],p=0.0042)。 天冬氨酸转氨酶水平在15例[37%]病例升高，包含8例[62%]深切治疗病例和7例[25%]普通病例。高敏肌钙蛋白I在5个被诊断为病毒引起心脏损伤病例中升高。
 
 Most patients had normal serum levels of procalcitonin on admission (procalcitonin <0·1 ng/mL; 27 [69%] patients; table 2). Four ICU patients developed secondary infec- tions. Three of the four patients with secondary infection had procalcitonin greater than 0·5 ng/mL (0·69 ng/mL, 1·46 ng/mL, and 6·48 ng/mL). 
 
@@ -240,7 +240,7 @@ No antiviral treatment for coronavirus infection has been proven to be effective
 
 Our study has some limitations. First, for most of the 41 patients, the diagnosis was confirmed with lower respiratory tract specimens and no paired nasopharyngeal swabs were obtained to investigate the difference in the viral RNA detection rate between upper and lower respiratory tract specimens. Serological detection was not done to look for 2019-nCoV antibody rises in 18 patients with undetectable viral RNA. Second, with the limited number of cases, it is difficult to assess host risk factors for disease severity and mortality with multivariable- adjusted methods. This is a modest-sized case series of patients admitted to hospital; collection of standardised data for a larger cohort would help to further define the clinical presentation, natural history, and risk factors. Further studies in outpatient, primary care, or community settings are needed to get a full picture of the spectrum of clinical severity. At the same time, finding of statistical tests and p values should be interpreted with caution, and non-significant p values do not necessarily rule out difference between ICU and non-ICU patients. Third, since the causative pathogen has just been identified, kinetics of viral load and antibody titres were not available. Finally, the potential exposure bias in our study might account for why no paediatric or adolescent patients were reported in this cohort. More effort should be made to answer these questions in future studies. 
 
-我们的研究具有局限性。首先，41名病例中的大多数，下呼吸道样本的检测并没有对应的上呼吸道鼻咽拭子样本来研究两个部位的病毒RNA差异。18名没有检测到病毒RNA的患者没有完成抗体的血清检测。其次，受到样本数量限制，通过多变量调整方法很难评估宿主风险因素对于致病和死亡率的影响。这里只有一个中等规模的病例样本，大规模的样本将对与临床表现、生物学和风险因子的定义具有具有更多的帮助。未来基于门诊、基层及社区医疗机构的研究将建立更完整的病理图谱。同时，统计测试和P值的发现应该被谨慎的解释，非显著性的P值不能揭示重症及非重症病例之间的必然规律。第三，虽然病原体已经被识别，但病毒荷载动力学和抗体效价还不明。最后，不同的病毒暴露条件可能导致此次样本中没有儿童及青少年病例的情况。未来需要更多的研究来得出答案。
+我们的研究具有局限性。首先，41名病例中的大多数，下呼吸道样本的检测并没有对应的上呼吸道鼻咽拭子样本来研究两个部位的病毒RNA差异。18名没有检测到病毒RNA的患者没有完成抗体的血清检测。其次，受到样本数量限制，通过多变量调整方法很难评估宿主风险因素对于致病和死亡率的影响。这里只有一个中等规模的病例样本，大规模的样本将对于临床表现、生物学和风险因子的定义具有具有更多的帮助。未来基于门诊、基层及社区医疗机构的研究将建立更完整的病理图谱。同时，统计测试和P值的发现应该被谨慎的解释，非显著性的P值不能揭示重症及非重症病例之间的必然规律。第三，虽然病原体已经被识别，但病毒荷载动力学和抗体效价还不明。最后，不同的病毒暴露条件可能导致此次样本中没有儿童及青少年病例的情况。未来需要更多的研究来得出答案。
 
 Both SARS-CoV and MERS-CoV were believed to originate in bats, and these infections were transmitted directly to humans from market civets and dromedary camels, respectively.35 Extensive research on SARS-CoV and MERS-CoV has driven the discovery of many SARS-like and MERS-like coronaviruses in bats. In 2013, Ge and colleagues36 reported the whole genome sequence of a SARS-like coronavirus in bats with that ability to use human ACE2 as a receptor, thus having replication potentials in human cells.37 2019-nCoV still needs to be studied deeply in case it becomes a global health threat. Reliable quick pathogen tests and feasible differential diagnosis based on clinical description are crucial for clinicians in their first contact with suspected patients. Because of the pandemic potential of 2019-nCoV, careful surveillance is essential to monitor its future host adaption, viral evolution, infectivity, transmissibility, and pathogenicity. 
 
