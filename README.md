@@ -4,7 +4,7 @@
 
 这些论文国内媒体已经有一些转载和报道，本页面向需要具体了解论文全貌又不想花时间读原文的读者，限于本人英文及医学知识水平，翻译质量有限，不适用于医学专业读者，敬请原谅。
 
-[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://github.com/samyn/2019nCoVPaperTrans/blob/master/Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%2C%20China.md) [pdf下载](https://github.com/samyn/2019nCoVPaperTrans/blob/master/Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%2C%20China.pdf) 
+[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://github.com/samyn/2019nCoVPaperTrans/blob/master/Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%2C%20China.md)
 
 
 
